@@ -4,7 +4,7 @@
 }
 
 .hero-image {
-    background-image: url("https://www.hackyourfuture.dk/static/hero.jpg");
+    background-image: url("hero.png");
     height: 450px;
 }
 
